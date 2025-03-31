@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working on: **Java | Python | Mongo | Node | React | Javascript**
 
-- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS**
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-arlee&hide=TeX&layout=compact)
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
@@ -37,8 +35,6 @@
 <div align="center">
 <img src="https://github.com/Sandeep-arlee/Sandeep-arlee/blob/main/connect-people.gif" alt="Sandeep" width="350" height="200" />
 </div>
-
-- 😄 Pronouns: **He/Him**
 
 - ⚡ Fun Facts: 
     
