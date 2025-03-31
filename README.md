@@ -30,7 +30,7 @@
 
     * [**Drop a Mail**](mailto:sandeeparlee@gmail.com)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/sandeep-arlee-7b58b5288/)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/sandeep-arlee/)
     
 <div align="center">
 <img src="https://github.com/Sandeep-arlee/Sandeep-arlee/blob/main/connect-people.gif" alt="Sandeep" width="350" height="200" />
