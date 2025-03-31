@@ -1,18 +1,20 @@
+
+# Hello! Welcome To My GitHub Profile !
 <div align="center">
-<img src="https://github.com/Sandeep-arlee/Sandeep-arlee/blob/main/gitty.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/Sandeep-arlee/Sandeep-arlee/blob/main/welcome.gif" alt="GitHub Logo" width="550" height="250" />
 </div>
 
-# Welcome To My GitHub Profile !
+
+
+<br/>
+
+- 🙌 I'm currently open to: **MERN Stack Developer roles**
 
 <br/>
 <div align="center">
 <img src="https://github.com/Sandeep-arlee/Sandeep-arlee/blob/main/coding.gif" alt="Sandeep Arlee" />
 </div>
 <br/>
-
-<br/>
-
-- 🙌 I'm currently open to: **MERN Stack Developer roles**
 
 - 🔭 I’m currently working on: **Java | Python | Mongo | Node | React | Javascript**
 
