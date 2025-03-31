@@ -18,6 +18,7 @@
 
 - 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-arlee&hide=TeX&layout=compact)
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
