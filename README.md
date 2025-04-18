@@ -32,9 +32,6 @@
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/sandeep-arlee/)
     
-<div align="center">
-<img src="https://github.com/Sandeep-arlee/Sandeep-arlee/blob/main/connect-people.gif" alt="Sandeep" width="350" height="200" />
-</div>
 
 - ⚡ Fun Facts: 
     
